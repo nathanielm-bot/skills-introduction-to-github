@@ -1,1 +1,1 @@
-Im nathNaiel i Want to code
+Hi, im nathaniel, and I want to learn to code. I am still in highschool, and would like to be able to use code for solving problems and creating games. My frist project this semester will be to create a 2d adventure game.
